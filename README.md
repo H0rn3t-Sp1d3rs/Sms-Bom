@@ -17,6 +17,8 @@ $ pkg install git
 
 $ pip2 install requests
 
+$ pip install CaseInsensitiveDict
+
 $ pip2 install mechanize
 
 $ pip install requests
